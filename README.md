@@ -19,9 +19,6 @@ Meu objetivo é, nos próximos anos, construir uma base sólida em tecnologia e 
 ## 📚 Atualmente estudando
 
 - 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
 - 🔧 Git
 - 🐙 GitHub
 - 🧠 Lógica de Programação
