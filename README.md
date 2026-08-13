@@ -93,7 +93,7 @@ Estou documentando minha evolução aqui no GitHub e aprendendo um pouco mais to
 
 ## 📫 Contato
 
-📧 E-mail: em breve
+📧 E-mail: g.pradocantor@gmail.com 
 
 🔗 GitHub: [Pradinho-G](https://github.com/Pradinho-G)
 
