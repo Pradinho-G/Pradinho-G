@@ -74,8 +74,8 @@ Site pessoal desenvolvido para apresentar meus projetos, conhecimentos e evoluç
 ## 🎯 Objetivos
 
 - [ ] Aprender Java
-- [ ] Aprender HTML e CSS
-- [ ] Aprender Git e GitHub
+- [✅] Aprender HTML e CSS
+- [✅] Aprender Git e GitHub
 - [ ] Aprimorar minha lógica de programação
 - [ ] Criar meus primeiros projetos
 - [ ] Desenvolver projetos web
