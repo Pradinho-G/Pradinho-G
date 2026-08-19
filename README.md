@@ -55,7 +55,7 @@ Projeto desenvolvido para praticar programação e aplicar conceitos de Química
 
 Projeto desenvolvido para praticar lógica de programação e criação de sistemas, permitindo o controle de produtos e estoque.
 
-**Tecnologias:** Java
+**Tecnologias:** Python
 
 🔗 Em breve
 
