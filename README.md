@@ -41,22 +41,12 @@ Meu objetivo é construir uma base sólida em tecnologia, explorar diferentes á
 
 ## 🚀 Projetos
 
-### 🧪 Calculadora Química
-
-Projeto desenvolvido para praticar programação e aplicar conceitos de Química através de uma calculadora com diferentes operações e cálculos.
-
-**Tecnologias:** Python
-
-🔗 Em Processo
-
----
-
 ### 💰 Gasto da Foto — IA para Controle de Gastos
 Sistema desenvolvido para auxiliar no controle financeiro utilizando Inteligência Artificial.
 A aplicação lê comprovantes de compras, identifica informações e organiza os gastos do usuário.
 Tecnologias: HTML, CSS, JavaScript e IA
 
-🔗 Finalizado
+🔗 Em Processo
 
 ---
 
