@@ -47,17 +47,16 @@ Projeto desenvolvido para praticar programação e aplicar conceitos de Química
 
 **Tecnologias:** Python
 
-🔗 Em breve
+🔗 Em Processo
 
 ---
 
-### 📦 Sistema de Controle de Estoque
+### 💰 Gasto da Foto — IA para Controle de Gastos
+Sistema desenvolvido para auxiliar no controle financeiro utilizando Inteligência Artificial.
+A aplicação lê comprovantes de compras, identifica informações e organiza os gastos do usuário.
+Tecnologias: HTML, CSS, JavaScript e IA
 
-Projeto desenvolvido para praticar lógica de programação e criação de sistemas, permitindo o controle de produtos e estoque.
-
-**Tecnologias:** Python
-
-🔗 Em breve
+🔗 Finalizado
 
 ---
 
