@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante do 2º ano do Ensino Médio Técnico Integrado em Química e estou construindo minha trajetória na área de Tecnologia da Informação.
+Sou estudante do Ensino Médio Técnico Integrado em Química e estou construindo minha trajetória na área de Tecnologia da Informação.
 
 Atualmente, estou iniciando meus estudos em programação e desenvolvimento web, utilizando o GitHub para registrar minha evolução, criar projetos e desenvolver experiência prática.
 
