@@ -65,7 +65,7 @@ Site pessoal desenvolvido para apresentar meus projetos, conhecimentos e evoluç
 
 ### `TECHNOLOGIES`
 
-`HTML` `CSS`
+`HTML` `CSS` `JavaScript`
 
 ### `STATUS`
 
